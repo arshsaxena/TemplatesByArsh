@@ -1,2 +1,2 @@
 # TemplatesByArsh
-Here are some HTML and CSS created by Arsh.
+Here are some web templates using HTML, CSS, and JavaScript created by Arsh.
